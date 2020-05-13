@@ -1871,6 +1871,7 @@ div#mobile-menu {
 
 span.page-title {
     font-size: 40px;
+    color: #fff;
 }
 
 .menu-move {
@@ -1944,7 +1945,15 @@ img#arrow4 {
 }
 
 .move-desc {
-    padding: 12px;
+    padding-top: 12px;
+}
+
+img.arrow {
+    height: 50px;
+}
+
+.left-arrow {
+	transform: rotate(180deg);
 }
 
 .blue-bell {
